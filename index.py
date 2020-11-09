@@ -69,4 +69,4 @@ async def dm(ctx,user:discord.User,*,reason=None):
 async def change_status():
     await client.change_presence(activity=discord.Game(choice(status)))
  
-client.run ("Nzc1MjE1MzQ3OTI1NTE2MzQ4.X6jFjQ.xU9Jz1JUsO3ffF7g_ZpmHQuhPKo")
+client.run ("Nzc1MjE1MzQ3OTI1NTE2MzQ4.X6jFjQ.sZhOzMj7Ha1_oj9RkIY68_sAJIM")
